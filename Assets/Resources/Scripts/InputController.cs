@@ -21,7 +21,8 @@ public class InputController : MonoBehaviour {
 			Up = Input.GetButtonDown("Up"),
 			Down = Input.GetButtonDown("Down"),
 			Left = Input.GetButtonDown("Left"),
-			Right = Input.GetButtonDown("Right")
+			Right = Input.GetButtonDown("Right"),
+			Quit = Input.GetButtonDown("Quit")
 		};
 
 		GameManager.Instance.ProcessInputs(p);

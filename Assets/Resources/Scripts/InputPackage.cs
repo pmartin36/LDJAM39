@@ -11,4 +11,5 @@
 	public bool Select { get; set; }
 
 	public bool Fire { get; set; }
+	public bool Quit { get; set; }
 }

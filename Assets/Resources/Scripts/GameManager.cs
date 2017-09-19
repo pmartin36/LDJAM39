@@ -14,6 +14,10 @@ public class GameManager : Singleton<GameManager> {
 	public GameOverController gameOverController;
 
 	public void ProcessInputs(InputPackage p) {
+		if(p.Quit) {
+			Application.Quit();
+		}
+
 		if (GameOver) {
 			if(p.Select) {
 				GameOver = false;
