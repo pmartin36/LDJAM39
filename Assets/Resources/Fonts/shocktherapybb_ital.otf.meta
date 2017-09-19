@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: edfd776f5da40b2419c1b2cd16979a6a
+timeCreated: 1501519965
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ShockTherapy BB
+  fontNames:
+  - ShockTherapy BB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

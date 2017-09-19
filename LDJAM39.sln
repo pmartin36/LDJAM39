@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDJAM39.CSharp", "LDJAM39.CSharp.csproj", "{393341C6-8B6E-38C1-4D77-B81E21D833BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDJAM39.CSharp.Editor", "LDJAM39.CSharp.Editor.csproj", "{3C3A5B8E-631E-5919-8325-40F44D8C07E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393341C6-8B6E-38C1-4D77-B81E21D833BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393341C6-8B6E-38C1-4D77-B81E21D833BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393341C6-8B6E-38C1-4D77-B81E21D833BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393341C6-8B6E-38C1-4D77-B81E21D833BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3A5B8E-631E-5919-8325-40F44D8C07E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3A5B8E-631E-5919-8325-40F44D8C07E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3A5B8E-631E-5919-8325-40F44D8C07E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3A5B8E-631E-5919-8325-40F44D8C07E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
